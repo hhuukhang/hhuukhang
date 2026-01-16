@@ -1,10 +1,9 @@
 # Hi there, I'm Khang! 👋
 
-Chào mừng đến với trang cá nhân của tôi! Tôi đam mê Lập trình, Thuật toán và Vật lý.
+Welcome, thanks for visiting my GitHub page! I'm interested in programming.
 
-- 🔭 Hiện đang thực hiện thử thách: **100 bài LeetCode (Medium - Hard)**
-- 🌱 Ngôn ngữ yêu thích: C++
-- ⚡ Sở thích khác: Học AI
+- 🌱 Ngôn ngữ yêu thích: C++, Python
+- ⚡ Đang mày mò vọc vạch
 
 ---
 
