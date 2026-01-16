@@ -7,16 +7,10 @@ Welcome, thanks for visiting my GitHub page! I'm interested in programming.
 
 ---
 
-### 📊 Thống kê GitHub của tôi
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhuukhang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="hhuukhang's github stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhuukhang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
+### 📊 Thống kê GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhuukhang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhuukhang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ### 🧠 Thống kê LeetCode
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=hhuukhang&theme=dark" alt="LeetCode Stats" />
-</div>
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=hhuukhang&theme=dark)
