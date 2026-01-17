@@ -13,3 +13,10 @@ Welcome, thanks for visiting my GitHub page! I'm interested in programming.
     <img src="https://leetcard.jacoblin.cool/hhuukhang?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
+
+### Codeforces
+<div align="right">
+  <a href = "https://codeforces.com/profile/hhuukhang">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hhuukhang&theme=tokyonight&font=Fira%20Code&no_bg=false&stars_only=false" alt="Codeforces Stats" />
+  </a>
+</div>
