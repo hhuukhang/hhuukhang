@@ -7,12 +7,15 @@ Welcome, thanks for visiting my GitHub page! I'm interested in programming.
 
 ---
 
-### 🧠 LeetCode
+### 🧠 Algorithms
 <div align="center">
   <a href="https://leetcode.com/u/hhuukhang/">
-    <img src="https://leetcard.jacoblin.cool/hhuukhang?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hhuukhang?theme=dark&font=Patrick%20Hand&ext=heatmap" height="180" alt="LeetCode Stats" />
   </a>
-  <a href = "https://codeforces.com/profile/hhuukhang">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hhuukhang&theme=tokyonight&font=Fira%20Code&no_bg=false&stars_only=false" alt="Codeforces Stats" />
+  
+  &nbsp; &nbsp; 
+  
+  <a href="https://codeforces.com/profile/hhuukhang">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hhuukhang&theme=tokyonight&font=Fira%20Code&no_bg=false&stars_only=false" height="180" alt="Codeforces Stats" />
   </a>
 </div>
