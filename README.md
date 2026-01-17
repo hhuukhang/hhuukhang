@@ -14,6 +14,6 @@ Welcome, thanks for visiting my GitHub page! I'm interested in programming.
   </a>
   
   <a href="https://codeforces.com/profile/hhuukhang">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hhuukhang&theme=dark&font=Fira%20Code&no_bg=false&stars_only=false" width="48%" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hhuukhang&theme=dark&font=Fira%20Code&no_bg=false&stars_only=false" width="36%" alt="Codeforces Stats" />
   </a>
 </div>
