@@ -13,7 +13,4 @@ Welcome, thanks for visiting my GitHub page! I'm interested in programming.
     <img src="https://leetcard.jacoblin.cool/hhuukhang?theme=dark&font=Patrick%20Hand&ext=heatmap" width="48%" alt="LeetCode Stats" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://oj.vnoi.info/user/hhuukhang">
-    <img src="https://img.shields.io/badge/VNOI-hhuukhang-FF6600?style=for-the-badge&logo=codeforces&logoColor=white" height="40" alt="VNOI Profile" />
-  </a>
 </div>
